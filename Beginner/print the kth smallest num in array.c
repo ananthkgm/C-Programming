@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void) 
+int main() 
 {
 	int i,n,k,array[50],temp;
 	scanf("%d %d",&n,&k);
